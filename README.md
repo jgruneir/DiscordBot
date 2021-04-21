@@ -22,4 +22,4 @@ If you really want this to work, you'll need the following:
 2. For handwriting, you'll need image files for each letter, number, and character you want to work, in the location indicated in handwriting.py, all similar sizes, named a.jpg, b.jpg, etc
 3. For crossword text, you'll need image files for each letter in a crossword box, similar to above
 4. For cleverbot to work, you'll need to pay for some sort of subscription through the cleverbot portal, and provide the CLEVERBOT_TOKEN in the .env file 
-5. For reactions, you'll need to setup a dynamoDB AWS instance and connect it, or use your own DB solution
+5. For reactions, you'll need to setup a DynamoDB AWS instance and connect it, or use your own DB solution
