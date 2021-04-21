@@ -13,7 +13,6 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 client = discord.Client()
 
 allCopy = False
-selfConvoCount = 0
 
 dynamodb = boto3.resource('dynamodb', 'us-east-2')
 table = dynamodb.Table('discord-react')
