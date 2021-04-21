@@ -12,7 +12,7 @@ Don't expect anything too fancy, features generated on a want-to-have basis.
 	- Have the bot have a conversation with itself for X number of messages
 - Add a reaction for the bot to respond to a specific input with a specific output
 	- The bot will respond to a trigger after it's added
-	- Can delete this reactions as well
+	- Can delete these reactions as well
 
 ### Usage
 
